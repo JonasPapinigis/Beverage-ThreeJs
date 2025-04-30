@@ -7,7 +7,7 @@ import React from 'react'
 import { useGLTF } from '@react-three/drei'
 
 export function Bottle(props) {
-  const { nodes, materials } = useGLTF('/models/bottle.gltf')
+  const { nodes, materials } = useGLTF('/models/bottle2.gltf')
   return (
     <group {...props} dispose={null}>
       <mesh geometry={nodes.Bottle.geometry} material={materials.Glass} rotation={[-Math.PI, 0.919, -Math.PI]} scale={0.958} />
@@ -21,4 +21,4 @@ export function Bottle(props) {
   )
 }
 
-useGLTF.preload('/models/bottle.gltf')
+useGLTF.preload('/models/bottle2.gltf')
