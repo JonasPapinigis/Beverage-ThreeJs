@@ -1,4 +1,3 @@
-A boilerplate to build R3F projects
 <h1 align="center" id="title">Web 3D Design Showcase Website</h1>
 
 <p id="description">Showcase website for my Web 3D design module</p>
