@@ -8,7 +8,7 @@
 
 <img src="screenshots/2.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/gif2.gif" alt="project-screenshot" width="950" height="400/">
+<img src="screenshots/gif2.gif" alt="project-screenshot" width="400" height="400/">
 
 <img src="screenshots/4.png" alt="project-screenshot" width="950" height="400/">
 
