@@ -4,19 +4,19 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="screenshots/1.png" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/1.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/2.png" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/2.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/gif2.gif" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/gif2.gif" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/4.png" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/4.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/5.png" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/5.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/6.png" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/6.png" alt="project-screenshot" width="950" height="400/">
 
-<img src="screenshots/gif1.gif" alt="project-screenshot" width="1028" height="400/">
+<img src="screenshots/gif1.gif" alt="project-screenshot" width="950" height="400/">
 
 <img src="screenshots/3.png" alt="project-screenshot" width="1028" height="400/">
 
