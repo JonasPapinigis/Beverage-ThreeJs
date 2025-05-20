@@ -22,16 +22,19 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Open CMD at project root and type</p>
+<p>1. Install Node.js and npm</p>
+<ul>
+  <li><strong>Windows</strong>: <a href="https://nodejs.org/en/download">Download and install Node.js</a> (bundles npm)</li>
+  <li><strong>Linux (Debian/Ubuntu)</strong>:
+    <pre><code>sudo apt update
+sudo apt install -y nodejs npm</code></pre>
+  </li>
+</ul>
 
-```
-npm install
-```
+<p>2. Open a terminal (or CMD on Windows) at the project root and run:</p>
+<pre><code>npm install</code></pre>
 
-<p>2. Run development build</p>
+<p>3. Run the development build:</p>
+<pre><code>npm run dev</code></pre>
 
-```
-npm run dev
-```
-
-<p>3. Connect at localhost:5000</p>
+<p>4. Open your browser and navigate to <code>http://localhost:5000</code></p>
